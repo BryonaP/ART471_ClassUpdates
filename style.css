@@ -1,0 +1,25 @@
+body{
+  font-family: times; 
+  color: LavenderBlush;
+  background-color: black;
+}
+
+h2{
+  margin-top: 10%; 
+  margin-left: 2%;
+}
+
+p {p: 5%;
+  margin-left: 5%; 
+}
+
+h3 {
+  margin-top: 10%; 
+  margin-left: 2%;
+}
+
+h4 {
+  margin-top: 5%; 
+  margin-left: 35%;
+  font-size: 19px;
+}
